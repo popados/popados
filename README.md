@@ -3,14 +3,14 @@
 
 # June Progress Track 2022 |
 
-[My Github](https://github.com/popados) | [First Quarter](#quarter-info) | [Jump to End](#end-of-doc)
+[My Github](https://github.com/popados) | [Review](https://github.com/popados/monster-hunter-rise#top-of-doc) | [Jump to End](#end-of-doc)
 
 ***
 
 ### Hi there 👋
 
 - 📫 How to reach me: ...
-- 
+
 - 🌱 I’m currently learning ...
 
 
