@@ -1,7 +1,9 @@
 
 <div id="top-of-doc"></div>
 
-# June Progress Track 2022 |
+# July--> August Progress Track 2022 |
+
+- 😄 Pronouns: [He/Him]
 
 [My Github](https://github.com/popados) | [Review](https://github.com/popados/monster-hunter-rise#top-of-doc) | [Jump to End](#end-of-doc)
 
@@ -9,9 +11,11 @@
 
 ### Hi there 👋
 
+I have taken time for personal growth. During this time my github commits have fallen. However I have found new direction.
+
 - 📫 How to reach me: ...
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning : HTML/CSS/JavaScript, Java & Android Studio, Writing
 
 
 ***
@@ -35,6 +39,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
