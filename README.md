@@ -3,13 +3,15 @@
 
 # July--> August Progress Track 2022 |
 
-- 😄 Pronouns: [He/Him]
+
 
 [My Github](https://github.com/popados) | [Review](https://github.com/popados/monster-hunter-rise#top-of-doc) | [Jump to End](#end-of-doc)
 
 ***
 
 ### Hi there 👋
+
+I'm Nik or Nikhil Khandwala or Popados. Pronouns: [He/Him]
 
 I have taken time for personal growth. During this time my github commits have fallen. However I have found new direction.
 
