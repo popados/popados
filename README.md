@@ -10,7 +10,7 @@
 
 ***
 
-<!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}-->
+date: "`r format(Sys.time(), '%d %B, %Y %H:%M')`"
 
 ## Specifications 
 
