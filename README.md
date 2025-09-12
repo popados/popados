@@ -10,7 +10,7 @@
 
 ***
 
-date: "`r format(Sys.time(), '%d %B, %Y %H:%M')`"
+`{{ now().strftime('%a&nbsp;%b&nbsp;%-d, %-I:%M&nbsp;%p')}}`
 
 ## Specifications 
 
