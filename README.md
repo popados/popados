@@ -10,7 +10,9 @@
 
 ***
 
-<h1>{{ now().strftime('%a&nbsp;%b&nbsp;%-d, %-I:%M&nbsp;%p')}}<h1>
+type: markdown
+content: >-
+  <center><h1>{{ now().strftime('%a_%b_%-d, %I:%M_%p') | replace('_', '&nbsp;') }} </h1></center>
 
 ## Specifications 
 
