@@ -16,10 +16,6 @@
 
 ***
 
-### DayNum | x/x/20xx - Today
-
-***
-
 ## End of Document
 
 ***
@@ -27,10 +23,4 @@
 [Jump to Top](#top-of-doc)
 
 <div id="end-of-doc"></div>
-
-<details>
-<summary>
-Notes :
-</summary>
-</details>
 
