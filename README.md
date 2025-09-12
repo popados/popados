@@ -10,8 +10,7 @@
 
 ***
 
-type: markdown
-content: <center><h1>{{ now().strftime('%a&nbsp;%b&nbsp;%-d, %-I:%M&nbsp;%p')}}
+<!date^timestamp^token_string^optional_link|fallback_text>
 
 
 ## Specifications 
