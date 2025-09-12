@@ -10,7 +10,7 @@
 
 ***
 
-`{{ now().strftime('%a&nbsp;%b&nbsp;%-d, %-I:%M&nbsp;%p')}}`
+<h1>{{ now().strftime('%a&nbsp;%b&nbsp;%-d, %-I:%M&nbsp;%p')}}<h1>
 
 ## Specifications 
 
