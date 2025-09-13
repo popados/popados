@@ -2,11 +2,10 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD036 -->
 <!-- markdownlint-disable MD041 -->
-<div id="top-of-doc"></div>
 
 # Popados Profile | September-13-2025 |
 
-[Github](https://github.com/popados) | [Jump to End](#end-of-doc)
+[Github](https://github.com/popados) |
 
 ***
 
@@ -18,10 +17,6 @@
 
 ***
 
-## End of Document
-
 ***
 
-[Jump to Top](#top-of-doc)
-
-<div id="end-of-doc"></div>
+## End of File
