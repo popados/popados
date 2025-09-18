@@ -3,13 +3,15 @@
 <!-- markdownlint-disable MD036 -->
 <!-- markdownlint-disable MD041 -->
 
-# Popados Profile | September-13-2025 |
+# Popados Profile | September-18-2025 | Thursday
 
 [Github](https://github.com/popados) |
 
 ***
 
 ## Specifications
+
+This is my github profile readme. I want to make it look nice and have some information about me.
 
 **Schedule**
 
