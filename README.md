@@ -3,7 +3,7 @@
 <!-- markdownlint-disable MD036 -->
 <!-- markdownlint-disable MD041 -->
 
-# Popados Profile | September-19-2025 | Friday
+# Popados Profile | September-20-2025 | Sunday
 
 [Github](https://github.com/popados) |
 
@@ -15,7 +15,7 @@ This is my github profile readme. I want to make it look nice and have some info
 
 **Schedule**
 
-|M|T|W|Th|F|S|Su|
+|M|T|W|Th|F|S|<font color="orange">Su</font>|
 |------|------|------|------|------|------|------|
 
 **Spotify Now Playing**
