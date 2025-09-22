@@ -3,7 +3,7 @@
 <!-- markdownlint-disable MD036 -->
 <!-- markdownlint-disable MD041 -->
 
-# Popados Profile | September-20-2025 | Sunday
+# Popados Profile | September-22-2025 | Monday
 
 [Github](https://github.com/popados) |
 
@@ -13,9 +13,13 @@
 
 This is my github profile readme. I want to make it look nice and have some information about me.
 
+
+`Quote of the day:`
+> "The best way to get started is to quit talking and begin doing." - Walt Disney
+
 **Schedule**
 
-|M|T|W|Th|F|S|<p style="color:orange">Su</p>|
+|<p>M</p>|T|W|Th|F|S|Su|
 |------|------|------|------|------|------|------|
 
 **Spotify Now Playing**
