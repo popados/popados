@@ -15,7 +15,7 @@ This is my github profile readme. I want to make it look nice and have some info
 
 **Schedule**
 
-|M|T|W|Th|F|S|<font color="orange">Su</font>|
+|M|T|W|Th|F|S|<p style="color:orange">Su</p>|
 |------|------|------|------|------|------|------|
 
 **Spotify Now Playing**
